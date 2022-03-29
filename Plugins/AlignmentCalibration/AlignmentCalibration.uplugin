@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "AlignmentCalibration",
+	"Description": "Utilities for computing alignment of two coordinate spaces",
+	"Category": "Other",
+	"CreatedBy": "david.hibbitts",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "AlignmentCalibration",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
