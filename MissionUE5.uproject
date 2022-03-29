@@ -26,27 +26,12 @@
 			]
 		},
 		{
-			"Name": "WindowsMixedReality",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"HoloLens"
-			]
-		},
-		{
 			"Name": "OculusVR",
 			"Enabled": false
 		},
 		{
 			"Name": "SteamVR",
 			"Enabled": false
-		},
-		{
-			"Name": "HoloLensAR",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64"
-			]
 		}
 	],
 	"EpicSampleNameHash": "3851886288"
